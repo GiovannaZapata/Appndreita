@@ -1,0 +1,7 @@
+{
+  "name": "Appndreita",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
