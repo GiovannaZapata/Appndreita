@@ -1,0 +1,24 @@
+ion-grid{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 20px;
+    padding: 15px 20px 15px 20px;
+    width: 70%;
+}
+
+button.orange {
+    color: white;
+    background-color: #DE6332; 
+    margin-bottom: 10px;
+}
+
+button.pink {
+    color: white;
+    background-color: #EBA6D0;
+}
